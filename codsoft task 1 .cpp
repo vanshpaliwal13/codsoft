@@ -28,5 +28,5 @@ int main() {
             std::cout << "Congratulations! You guessed the correct number in " << attempts << " attempts.\n";
         }
     } while (user_guess != random_number);
-    1return 0;
+    return 0;
 }
